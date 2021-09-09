@@ -1,0 +1,19 @@
+# Build output
+target/
+bin/
+.classpath
+.project
+.settings
+
+# Compiled class file
+*.class
+
+# Log
+*.log
+
+# IntelliJ
+.idea/
+*.iml
+
+# Mac OS X
+.DS_Store
